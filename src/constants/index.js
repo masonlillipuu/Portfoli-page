@@ -3,14 +3,14 @@ export const myProjects = [
     id: 1,
     title: "Portfolio",
     description:
-      "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
+      "A modern, animated 3D portfolio built with React, Three.js, TailwindCSS, and motion effects.,
     subDescription: [
-      "Built a scalable application with ASP.NET Core MVC, integrating global platforms like Amazon for domestic delivery.",
-      "Implemented secure authentication and database management using ASP.NET Core Identity and Entity Framework Core.",
-      "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
-      "Added payment systems, localization, and product filtering for functionality improvements.",
+      "Immersive 3D models, scenes, and animations for an interactive showcase.",
+      "Framer Motion (or similar) used for fluid transitions and micro-interactions.",
+      "Modern design with flexibility for personalization.",
+      "Blends minimal UI with futuristic 3D animations for a standout personal brand.",
     ],
-    href: "",
+    href: "https://portfoli-page-wnhm.vercel.app/",
     logo: "",
     image: "/assets/projects/portfolio.PNG",
     tags: [
