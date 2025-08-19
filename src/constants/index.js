@@ -3,7 +3,7 @@ export const myProjects = [
     id: 1,
     title: "Portfolio",
     description:
-      "A modern, animated 3D portfolio built with React, Three.js, TailwindCSS, and motion effects.,
+      "A modern, animated 3D portfolio built with React, Three.js, TailwindCSS, and motion effects.,"
     subDescription: [
       "Immersive 3D models, scenes, and animations for an interactive showcase.",
       "Framer Motion (or similar) used for fluid transitions and micro-interactions.",
